@@ -116,7 +116,7 @@
   </div>
   <a href="https://genu.io/" target="_blank">
     <div
-      class="absolute bottom-10 left-10 rounded-full w-20 h-20 border-4 border-white hover:bg-white ease-in duration-100"
+      class="absolute bottom-10 left-10 rounded-full w-20 h-20 border-4 border-white hover:bg-white ease-in duration-50"
     >
       <img
         src={"icon/home.svg"}
@@ -203,7 +203,7 @@
     </div>
     <div class="mt-[15px]">
       <button
-        class="relative border-2 border-white rounded-full w-48 h-14 mt-[20px] mb-[10px] text-white text-lg font-bold hover:bg-white hover:text-gray-500 ease-in duration-100"
+        class="relative border-2 border-white rounded-full w-48 h-14 mt-[20px] mb-[10px] text-white text-lg font-bold hover:bg-white hover:text-gray-500 ease-in duration-50"
         on:click={() => window.location.reload()}
       >
         다시하기
@@ -214,7 +214,7 @@
         />
       </button>
       <button
-        class="payment relative border-2 border-white rounded-full w-48 h-14 text-white text-lg font-bold hover:bg-white hover:text-gray-500 ease-in duration-100"
+        class="payment relative border-2 border-white rounded-full w-48 h-14 text-white text-lg font-bold hover:bg-white hover:text-gray-500 ease-in duration-50"
       >
         저장하기
         <img

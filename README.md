@@ -1,38 +1,26 @@
-# create-svelte
+# <p align="center">👟GENUIO INTERNSHIP
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+<P align="center">📆 2022.12.12 ~ 2023.01.05
 
-## Creating a project
+## 🏆 Genuio Goal
 
-If you're seeing this, you've probably already done this step. Congrats!
+- 고객들이 신발을 직접 커스터마이징해볼 수 있는 페이지 구현
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## 📼 DEMO
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- <img src="https://user-images.githubusercontent.com/109214539/211252156-2dd74e06-96ab-4939-8e59-116915d8f0b0.gif" />
 
-## Developing
+## 🛠 Genuio Engineering Stack
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- 💻 FE:
+  - `JavaScript`, `Svelte`, `tailwindCSS`
 
-```bash
-npm run dev
+## 🚀 구현 기능
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+1. 신발 3D model 불러와서 화면에 구현
+2. 고객이 원하는 대로 회전, 확대 가능하게 구현
+3. 선택한 영역의 색상, 재질 변경
 
-## Building
+<br>
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+---
