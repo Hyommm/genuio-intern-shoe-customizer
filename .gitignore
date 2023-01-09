@@ -22,3 +22,5 @@ example/dist/
 example/package-lock.json
 
 *.log
+
+tests/test.js

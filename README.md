@@ -8,7 +8,7 @@
 
 ## 📼 DEMO
 
-- <img src="https://user-images.githubusercontent.com/109214539/211252156-2dd74e06-96ab-4939-8e59-116915d8f0b0.gif" />
+- <a href="https://youtu.be/Mm2G2t9AomU">시연영상</a>
 
 ## 🛠 Genuio Engineering Stack
 
