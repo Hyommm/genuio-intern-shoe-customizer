@@ -12,8 +12,7 @@
 
 ## 🛠 Genuio Engineering Stack
 
-- 💻 FE:
-  - `JavaScript`, `Svelte`, `tailwindCSS`, `Three.js`
+- 💻 FE: `JavaScript`, `Svelte`, `tailwindCSS`, `Three.js`
 
 ## 🚀 구현 기능
 
